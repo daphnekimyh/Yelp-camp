@@ -27,9 +27,11 @@
 
 <ul>
   <li>JavaScript</li>
+  <li>Node.js</li>
   <li>MongoDB</li>
   <li>Express.js</li>
   <li>CSS</li>
+  <li>Bootstrap</li>
   <li>HTML</li>
 </ul>
 
